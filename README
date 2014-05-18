@@ -1,3 +1,16 @@
-This open-source repository contains nearly all of the code for the Official Website Of Pensarora (pensarora.org)
+This open-source repository contains nearly all of the code for the Official Website Of Pensarora (www.pensarora.org)
 Hopefully, this code can be used and forked by any one seeking to build a website for a city or community.  Over time,
 if people see this repository and start to use it, hopefully the website code will become more advanced and improve overall.
+
+Instructions:
+The Official Website Of Pensarora was done on an Amazon EC2 Instance with apapche installed, if you want to get apache and
+MYSQL installed, follow this tutorial: http://coenraets.org/blog/2012/01/setting-up-wordpress-on-amazon-ec2-in-5-minutes/ 
+For the entire website to function properly, you will need a MYSQL database named cards with a table inside called cardinfo.
+Within the table cardinfo, you will need to create a row for id (primary key and auto incrementing), name, and message.
+This database will be used for the recording history via social media page of your site.
+
+Once you ssh into your ec2 instance, (look up how to online), you can go to the var/www/ folder and replace the html folder
+there with the one in this repository.  After some tweaking, it should be all set up.
+
+Notes:  A micro EC2 amazon instance is all that is needed.  For information on getting the right instance, check the above
+mentioned tutorial.
