@@ -1,0 +1,247 @@
+<html>
+<link href="css/bootstrap-trornu.css" rel="stylesheet">
+<link href="css/cover.css" rel="stylesheet">
+<link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-translate-customization" content="240192e7dffee963-a0dbc3735ecdec56-g0ab6569a6b41ea68-10"></meta>
+</head>
+<style>
+
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+body {
+  background-color:#1d6ed4;
+  -webkit-font-smoothing: antialiased;
+  font: normal 14px Roboto,arial,sans-serif;
+  padding-top: 0px;
+
+	height:100%;
+    background:center no-repeat fixed url('img/treebg.jpg');
+
+
+}
+
+	section {
+	padding-top:40px;  
+    padding-bottom:40px; 
+    min-height: 10%;
+}
+#section1 {
+	background-color: #005f91;
+    color:#ddd;
+    padding-bottom: 10px;
+    padding-top: 50px;
+}    
+  
+#section2 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section3 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section4 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+#section5 {
+	background-color: #005f91;
+    color:#ddd;
+    
+}
+  
+#section6 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section7 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section8 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+
+	
+
+.featurette-heading {
+    margin-top: 0px;
+  }
+
+	
+</style>
+<body>
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script src="js/bootstrap.js"></script>
+        
+
+<center>
+<font class="">
+<div class="navbar-wrapper">
+<div class="container">
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+   
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+        <a href="/" class="navbar-brand">Official Website Of Pensarora</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      
+            
+             
+              <ul class="nav masthead-nav">
+              <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">See More <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a class="active" href="farm">Farming</a></li>
+                <li><a href="museums">Library</a></li>
+                <li><a href="art">Art Museum</a></li>
+                <li><a href="mathscience">Math & Sciences</a></li>
+                <li><a href="profit">Non-Profit</a></li>
+                <li><a href="record.php">Recording History</a></li>
+                <li><a href="bibliography">Bibliography</a></li>
+
+          </ul>
+        </li>
+
+                <li><a href="/">Home</a></li>
+                <li><a href="government">Government</a></li>
+                <li><a href="infrastructure">Infrastructure</a></li>
+                <li><a href="edu">Education</a></li>
+                <li><a href="business">Business</a></li>
+               
+              </ul>
+            
+         
+      
+                </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</div>
+</div>
+</div>
+<section class="container-fluid" id="section1">
+<h2>A Community Driven Approach To Agriculture</h2>
+</section>
+<section class="container-fluid" id="section2">
+<div class="container marketing">
+
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h3 class="featurette-heading">Farms Run By The Communities They Sustain</h3>
+          <p class="lead">Farms throughout the city will be both privately and community run and supported.  Business will be encouraged to donate or rent urban rooftop space to farmers in order to let agriculture take hold in the community.  Much of the food will come from urban farms.  There will be agricultural sectors of the city dedicated to local food production and there will also be farms which are even more blended into the city.  On top of most buildings near the city center, there will be rooftop farms and tax breaks will be given to those whose businesses let farmers use those spaces.  Rooftops will look like the picture below.  If one works at a company that does that, then the individually will be given a tax break.  This will make people want to work at these greener companies and therefore also encourage more  businesses to follow suit.  
+These urban farms will be both privately and community run.  The private farms, instead of paying any taxes to the government, can pay in agricultural products if they prefer to.  </p>
+        </div>
+        <div class="col-md-5">
+          <img style="margin-top:50px;" class="featurette-image img-circle img-responsive" src="img/rooffarm.jpg" alt="Generic placeholder image">
+        </div>
+      </div>
+
+</div>
+</section>
+<section class="container-fluid" id="section3">
+<div class="container marketing">
+      <div class="row featurette">
+        <div class="col-md-5">
+          <img style="margin-top:65px;" class="featurette-image img-circle img-responsive" src="img/sustainable.jpg" alt="Generic placeholder image">
+        </div>
+        <div class="col-md-7">
+          <h3 class="featurette-heading">A Cycle Of Sustainability</h3>
+          <p class="lead">Also, much of the larger agricultural area which is not on rooftops will be community driven.  This means that anyone who wants may join the farm in order to help in food production.  Also, even if the people put in only a few hours they can still take a reasonable amount of food, keeping the population fed from local sources which they help maintain.  The more time spent working on the farm, the more food one can take, up to a certain point.  In order to keep the community's food source as a whole natural and local, the farms must keep 1/3 of all of their products for sale to the super markets and restaurants in the city.  These businesses will want to by from the local farms because of the cheaper prices (Imported food will have a tax on it, while food purchased from local farms/businesses will be tax free.  This will push the citizens to both buy and grow more local food without only giving them one option.  
+).  This drive to sell the 1/3 of their food will also encourage farms to produce better and more food in order to outsell competition.   
+</p>
+        </div>
+      </div>
+
+</section>
+<section class="container-fluid" id="section4">
+<div class="container marketing">
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h3 class="featurette-heading">Management And More Citizen Involvement</h3>
+          <p class="lead">In order to make sure the farms themselves are being well run, managers for each public farm will be elected once every two years.  These people must have a history of 5 or more years in agricultural work, more specifically in food production.  Each year, in the fall, a farm festival will be held during which all the citizens of Pensarora will meet at the communal run farms.  The citizens must spend the day helping around at the farm, doing tasks assigned by the farm manager.  This will deepen the citizens' sense of community and give them the satisfaction of having helped to sustain both themselves and the community as a whole.  
+</p>
+        </div>
+        <div class="col-md-5">
+          <img style="margin-top:0px;" class="featurette-image img-circle img-responsive" src="img/community.jpg" alt="Generic placeholder image">
+        </div>
+      </div>
+</div>
+</section>
+      <section class="container-fluid" id="section5">
+      <div class="container marketing">
+            <div class="row featurette">
+        <div class="col-md-5">
+          <img style="margin-top:0px;" class="featurette-image img-circle img-responsive" src="img/hydro.jpg" alt="Generic placeholder image">
+        </div>
+        <div class="col-md-7">
+          <h3 class="featurette-heading">Farming Techniques And Technology</h3>
+          <p class="lead">In decreasing the amount of imported food for consumption, many steps will be eliminated from production to consumption, making the food fresher and saving money while also decreaasing ecological footprint.  
+Hydroponics will be used in the farms, the benefits of a hydroponic system include decreased water consumption, easier mobility, more controlled crop output, regulated plant nutrient levels and easier to harvest.  
+Because the plants will be exposed to lots of sun and heat on rooftops, a hydroponic system will help to reduce potential water evaporation.    
+</p>
+        </div>
+      </div>
+
+      </div>
+      </section>
+      <section class="container-fluid" id="section6">
+      <div class="container marketing">
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h3 class="featurette-heading">Vertical Farming</h3>
+          <p class="lead">Vertical Farming will be  used in the urban farm plots in order to conserve space, energy and water.  The production rate of nearly any agricultural product could be vastly improved meaning that the community would be better able to sustain itself.  Instead of using up valuable urban space for fields, vertical farms use space where it is abundant, above the ground.  The use of these farms could mean that keeping food local in Pensarora would be much easier and even cheaper for the city.
+</p>
+        </div>
+        <div class="col-md-5">
+          <img style="margin-top:0px;" class="featurette-image img-circle img-responsive" src="img/verticalfarm.jpg" alt="Generic placeholder image">
+        </div>
+      </div>
+
+      </div>
+      </section>
+      <section class="container-fluid" id="section7">
+      <div class="container marketing">
+        <div class="col-md-7">
+          <iframe style="margin-top:40px" width="560" height="315" src="//www.youtube.com/embed/2nFQOkzEjxQ?rel=0" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <div class="col-md-5">
+          <h3 class="featurette-heading">Vertical Farming In Practice Today</h3>
+          <p class="lead">In this documentary video about the pioneering vertical farms in Singapore, the need and benefits of vertical farms are explained.  This shows that in the real world so far, the value and necessity of vertical farms to the human population is very real.  The video also shows how little it would cost to sustain these farms and yet how much production could increase.  The problems that Singapore faces in terms of food production are stated clearly in this video but these vertical farms could easily be the solution.
+</p>
+        </div>
+      </div>
+
+      </section>
+<section class="container-fluid" id="section8">
+      <footer>
+        <p><a href="#">Back to top</a></p>
+        <p>&middot; &copy; 2014 Pensarora &middot;</p>
+      </footer>
+
+    </div><!-- /.container -->
+</div>
+<p><a name="translator">
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</a></p>
+<p>Click The "X" On The Upper Right Corner Of The </br>Google Translate Bar To Go Back To English</p>
+</section>

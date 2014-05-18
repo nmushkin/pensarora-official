@@ -1,0 +1,361 @@
+<html>
+<link href="css/bootstrap-trornu.css" rel="stylesheet">
+<link href="css/carouselart.css" rel="stylesheet">
+<link href="css/cover.css" rel="stylesheet">
+<link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-translate-customization" content="240192e7dffee963-a0dbc3735ecdec56-g0ab6569a6b41ea68-10"></meta>
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script src="js/bootstrap.js"></script>
+
+</head>
+<style>
+
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+body {
+  background-color:#005f91;
+  -webkit-font-smoothing: antialiased;
+  font: normal 14px Roboto,arial,sans-serif;
+  padding-top: 0px;
+
+
+	height:100%;
+    background:center no-repeat fixed url('img/treebg.jpg');
+
+
+}
+
+	section {
+	padding-top:40px;  
+    padding-bottom:40px; 
+    min-height: 10%;
+}
+#section1 {
+	background-color: #005f91;
+    color:#ddd;
+    padding-bottom: 10px;
+    padding-top: 30px;
+}    
+  
+#section2 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section3 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section4 {
+	background-color: #d5d5df;
+    color:#686868;
+    
+}
+#section5 {
+	background-color: #005f91;
+    color:#ddd;
+    
+    
+    
+    
+}
+  
+#section6 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section7 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section8 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+#section9 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section10 {
+	background-color: #d5d5df;
+    color:#686868;
+    
+}
+#section11 {
+	background-color: #005f91;
+    color:#ddd;
+    
+    
+    
+}
+  
+#section12 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section13 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section14 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section15 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+	
+
+.featurette-heading {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+/* Declare heights because of positioning of img element */
+  
+ </style>
+<body onload="myFunction()">
+        
+        <script type="text/javascript">
+<!--
+function myFunction(){
+  var viewportwidth;
+  var viewportheight;
+
+ // the more standards compliant browsers (mozilla/netscape/opera/IE7) use window.innerWidth and window.innerHeight
+
+  if (typeof window.innerWidth != 'undefined')
+  {
+      viewportwidth = (window.innerWidth-30),
+      viewportheight = (window.innerHeight-30)
+  }
+
+
+ else if (typeof document.documentElement != 'undefined'
+ && typeof document.documentElement.clientWidth !=
+ 'undefined' && document.documentElement.clientWidth != 0)
+ {
+   viewportwidth = (document.documentElement.clientWidth-30),
+   viewportheight = (document.documentElement.clientHeight-30)
+ }
+
+
+ else
+ {
+   viewportwidth = (document.getElementsByTagName('body')[0].clientWidth-30),
+   viewportheight = (document.getElementsByTagName('body')[0].clientHeight-30)
+ }
+   section5.style.height =viewportheight;
+   section6.style.height =viewportheight;
+section7.style.height =   viewportheight;
+section8.style.height =viewportheight;
+section9.style.height =viewportheight;
+section10.style.height =viewportheight;
+section11.style.height =viewportheight;
+section12.style.height =viewportheight;
+section13.style.height =viewportheight;
+section14.style.height =viewportheight;
+
+//-->
+}
+</script>
+        
+<center>
+<font class="">
+<div class="navbar-wrapper">
+<div class="container">
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+   
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+        <a href="/" class="navbar-brand">Official Website Of Pensarora</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      
+            
+             
+                 <ul class="nav masthead-nav">
+              <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">See More <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="farm">Farming</a></li>
+                <li><a href="museums">Library</a></li>
+                <li class="active"><a href="art">Art Museum</a></li>
+                <li><a href="mathscience">Math & Sciences</a></li>
+                <li><a href="profit">Non-Profit</a></li>
+                <li><a href="record.php">Recording History</a></li>
+                <li><a href="bibliography">Bibliography</a></li>
+
+          </ul>
+        </li>
+
+                <li><a href="/">Home</a></li>
+                <li><a href="government">Government</a></li>
+                <li><a href="infrastructure">Infrastructure</a></li>
+                <li><a href="edu">Education</a></li>
+                <li><a href="business">Business</a></li>
+               
+              </ul>
+            
+         
+      
+                </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</div>
+</div>
+</div>
+<section class="container-fluid" id="section1">
+<h2>The Pensarora Art Museum</h2>
+</section>
+<section class="container-fluid" id="section2">
+     <div class="container marketing">
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h3 class="featurette-heading" style="margin-top:30px">An Art Museum With Perspective-Challenging Works</h3>
+          <p class="lead">The art museum will be located near the library in the central park and the building itself will challenge the perspectives of visitors due to the fact that it will be more Dionysian instead of Apollonian.  The building will be in the style of Dan Phillips, incorporating some of the aspects of Wabi-Sabi and nature incorporation feature in the house pictured at right.  The works of art inside will be chosen either because of their ability to immerse visitors in the art or because they challenge cultural biases and force people to reform their opinions on art.
+</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-circle img-responsive" style="margin-top:20px" src="img/danphil.jpg" alt="Generic placeholder image">
+        </div>
+      </div>
+
+     </section>
+     <section class="container-fluid" id="section3">
+     <h3 class="featurette-heading">Pieces Featured In The Art Museum</h3>
+     </section>
+<section class="container-fluid" id="section5">
+<div class="container marketing">
+      <div class="row featurette">
+<h2 id="1">Banksy - I Want Change</h2>
+<img src="img/art/change.jpg" id="art" style="max-width:800px; margin-top:20px">
+<p class="lead" style="margin-top:20px">This piece will work to challenge and make people change their opinions on what is art and what art can be in a museum. It might seem strange to have a wall with a Banksy Piece in the same museum as one of Picasso's most famous paintings, but that is part of what the city as a whole is about, being entirely acceptant of change and the extreme need we have of changing.
+</p>
+      </div>
+</div>
+
+</section>
+<section class="container-fluid" id="section6">
+<div class="container marketing">
+      <div class="row featurette">
+<h2 id="2">Makoto Tojiki - Hopes And Dreams</h2>
+<img src="img/art/dreams.jpg" id="art" style="max-width:700px; margin-top:20px">
+<p class="lead" style="margin-top:20px">The work of Mokoto Tajiki will fit well in the museum due to its message on looking to the future and focusing on change instead of dwelling on the past.</p>
+      </div>
+</div>
+</section>
+<section class="container-fluid" id="section7">
+<div class="container marketing">
+      <div class="row featurette">
+<h2 id="3">Easter Islanders - Moai</h2>
+<img src="img/art/moai.jpg" id="art" style="max-width:800px; margin-top:20px">
+<p class="lead" style="margin-top:20px">These statues are not only interesting because of their look or location but also because of the history of easter island. There has been a lot of debate about what happened to the inhabitants of easter island regarding their environmental "eco-side", so this should spark thinking from the visitors who see these statues and might be able to tach them something.</p>
+      </div>
+</div>
+</section>
+<section class="container-fluid" id="section8">
+<div class="container marketing">
+      <div class="row featurette">
+<h2 id="4">Andy Goldsworthy - Wood Room</h2>
+<img src="img/art/woodroom.jpg" id="art" style="max-width:800px; margin-top:20px">
+<p class="lead" style="margin-top:20px">
+This shelter, built by Andy Goldsworthy, will be exhibited in the museum due to its ability to challenge people to stop thinking of art as only on walls or hung up and instead get them to realize what art has the potential to be.
+</p>
+      </div>
+</div>
+</section>
+<section class="container-fluid" id="section9">
+<div class="container marketing">
+      <div class="row featurette">
+<h2 id="5">Salvador Dalí - Persistence Of Memory</h2>
+<img src="img/art/persistance.jpg" id="art" style="max-width:600px; margin-top:20px">
+<p class="lead" style="margin-top:20px">Persistence Of Memory will be placed in the museum because of the way it challenges reality and gives a fluid look to the world and can make us feel differently about time. This will work in the theme of being acceptable of change and trying to refrain from forming concrete opinions without knowledge.
+</p>
+      </div>
+</div>
+</section>
+<section class="container-fluid" id="section10">
+<div class="container marketing">
+      <div class="row featurette">
+<h2 id="6">Pablo Picasso - Guernica</h2>
+<img src="img/art/guernica.jpg" id="art" style="max-width:800px; margin-top:20px">
+<p class="lead" style="margin-top:20px">This painting will be put in the museum because it is very open to interpretation from any viewer when focusing on it. Though it is thought to represent the horrors of war, one can try to understand what each element of the piece means to them instead of going along with the opinions of others.
+</p>
+      </div>
+</div>
+</section>
+<section class="container-fluid" id="section11">
+<div class="container marketing">
+      <div class="row featurette">
+<h2 id="7">Ai Wei Wei - Sunflower Seeds</h2>
+<img src="img/art/sunflower.jpg" id="art" style="max-width:800px; margin-top:20px">
+<p class="lead" style="margin-top:20px">This piece of art will let the visitors interact with the art by walking on it and it will help to instill the fact that all things must change and not be held so highly that they are never truly appreciated.</p>
+      </div>
+</div>
+
+</section>
+<section class="container-fluid" id="section12">
+<div class="container marketing">
+      <div class="row featurette">
+<h2 id="8">Motoi Yamamoto - Utsusemi</h2>
+<img src="img/art/utsusemi.jpeg" id="art" style="max-width:800px; margin-top:20px">
+<p class="lead" style="margin-top:20px">A staircase made of salt which is designed to crumble over time.  This will be a good piece of art to include because it will demonstrate to users that everything naturally falls apart and even when it is just a pile of salt it will make visitors imagine what it once was.
+</p>
+      </div>
+</div>
+</section>
+<section class="container-fluid" id="section13">
+<div class="container marketing">
+      <div class="row featurette">
+<h2 id="9">Marcel Duchamp - Fountain</h2>
+<img src="img/art/fountain.jpeg" id="art" style="max-width:500px; margin-top:20px">
+<p class="lead" style="margin-top:20px">This found “work” of Marcel Duchamp, will be featured in the art museum due to the fact that Marcel Duchamp only liked it because he wanted to challenge what people though of as art and challenge the adoration of art which he found unnecessary.
+</p>
+      </div>
+</div>
+</section>
+<section class="container-fluid" id="section14">
+<div class="container marketing">
+      <div class="row featurette">
+<h2 id="10">Created By And For The BMW Museum - Infinite Cube</h2>
+<iframe src="//player.vimeo.com/video/81098007" width="700" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="max-width:800px; margin-top:20px"></iframe> <p class="lead" style="margin-top:20px">This kinetic installation will be placed in the museum due to the fact that it is constantly changing and demonstrates that one original entity can become many.</p>
+      </div>
+</div>
+</section>
+<section class="container-fluid" id="section15">
+
+      <footer>
+        <p><a href="#">Back to top</a></p>
+        <p>&middot; &copy; 2014 Pensarora &middot;</p>
+        <p><a name="translator">
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</a></p>
+<p>Click The "X" On The Upper Right Corner Of The </br>Google Translate Bar To Go Back To English</p>
+
+      </footer>
+
+    </div>
+    </section>

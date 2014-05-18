@@ -1,0 +1,61 @@
+<html>
+<link href="css/bootstrap-trornu.css" rel="stylesheet">
+<link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-translate-customization" content="240192e7dffee963-a0dbc3735ecdec56-g0ab6569a6b41ea68-10"></meta>
+</head>
+<body style="background-color:#ffffff;">
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script src="js/bootstrap.js"></script>
+
+<center>
+<font class="">
+<img src="img/shortcover.jpg" class="img-responsive" alt="Responsive image">
+
+<nav class="navbar navbar-default navbar-static-top" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">The Official Guide To Trornu</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+       
+                   
+            <li><a href="/">Home</a></li>
+            <li><a href="infrastructure">Infrastructure</a></li>
+            <li><a href="museums">Museums</a></li>
+            <li><a href="mathscience">Math & Sciences</a></li>
+            <li><a href="government">Government</a></li>
+            <li class="active"><a href="business">Business</a></li>
+                       
+         
+       
+      </ul>
+      
+                </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+      <footer>
+        <p><a href="#">Back to top</a></p>
+        <p>&middot; &copy; 2014 Pensarora &middot;</p>
+      </footer>
+
+    </div><!-- /.container -->
+</div>
+<p><a name="translator">
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</a></p>
+</br>

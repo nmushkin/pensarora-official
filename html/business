@@ -1,0 +1,217 @@
+<html>
+<link href="css/bootstrap-trornu.css" rel="stylesheet">
+<link href="css/cover.css" rel="stylesheet">
+<link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-translate-customization" content="240192e7dffee963-a0dbc3735ecdec56-g0ab6569a6b41ea68-10"></meta>
+</head>
+<style>
+
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+body {
+  background-color:#1d6ed4;
+  -webkit-font-smoothing: antialiased;
+  font: normal 14px Roboto,arial,sans-serif;
+  padding-top: 0px;
+
+	height:100%;
+    background:center no-repeat fixed url('img/treebg.jpg');
+
+
+}
+
+	section {
+	padding-top:40px;  
+    padding-bottom:40px; 
+    min-height: 10%;
+}
+#section1 {
+	background-color: #005f91;
+    color:#ddd;
+    padding-bottom: 10px;
+    padding-top: 50px;
+}    
+  
+#section2 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section3 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section4 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+#section5 {
+	background-color: #005f91;
+    color:#ddd;
+    
+}
+  
+#section6 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section7 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section8 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+
+	
+
+.featurette-heading {
+    margin-top: 0px;
+  }
+
+	
+</style>
+<body>
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script src="js/bootstrap.js"></script>
+        
+
+<center>
+<font class="">
+<div class="navbar-wrapper">
+<div class="container">
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+   
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+        <a href="/" class="navbar-brand">Official Website Of Pensarora</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      
+            
+             
+              <ul class="nav masthead-nav">
+              <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">See More <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="farm">Farming</a></li>
+                <li><a href="museums">Library</a></li>
+                <li><a href="art">Art Museum</a></li>
+                <li><a href="mathscience">Math & Sciences</a></li>
+                <li><a href="profit">Non-Profit</a></li>
+                <li><a href="record.php">Recording History</a></li>
+                <li><a href="bibliography">Bibliography</a></li>
+
+          </ul>
+
+        </li>
+
+                <li><a href="/">Home</a></li>
+                <li><a href="government">Government</a></li>
+                <li><a href="infrastructure">Infrastructure</a></li>
+                <li><a href="edu">Education</a></li>
+                <li class="active"><a href="business">Business</a></li>
+               
+              </ul>
+            
+         
+      
+                </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</div>
+</div>
+</div>
+<section class="container-fluid" id="section1">
+<h2>Businesses Rewarded For Their Efforts To Improve The Community</h2>
+</section>
+<section class="container-fluid" id="section2">
+<div class="container marketing">
+
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h3 class="featurette-heading">Co-Score</h3>
+          <p class="lead">Many Business might fail to see what they should really be working on and doing because their ideas are coming from the wrong people.  Businesses are run by a chain of command oblivious to the rest of the world in some cases and instead consumers and end users should be the people who decide the direction a business is headed in.  The score system is a way of giving both incentive and fresh ideas to businesses through consumers.  Each registered business will be scored each year on a range of topics, from their environmental impact to how their employees enjoy their office space.  These scores will be public, so they can serve as reviews for consumers, but they will also be a way to decide tax breaks or funding for businesses and the better a business does on the score, the larger tax break they will receive and if they are doing something particularly helpful like donating unused space to students or artists, they may even receive government funding.  The topics business will be scored on are as follows:  employee happiness, environmental impact, morality, company workspaces and ability to change (how often company structure and focus shifts).</p>
+        </div>
+        <div class="col-md-5">
+          <img style="margin-top:40px;" class="featurette-image img-responsive" src="img/scorecard.png" alt="Generic placeholder image">
+        </div>
+      </div>
+
+</div>
+</section>
+
+<section class="container-fluid" id="section3">
+<div class="container marketing">
+      <div class="row featurette">
+        <div class="col-md-5">
+          <img style="margin-top:0px;" class="featurette-image img-circle img-responsive" src="img/people.jpg" alt="Generic placeholder image">
+        </div>
+        <div class="col-md-7">
+          <h3 class="featurette-heading">Business Types Which Will Build The Community Up</h3>
+          <p class="lead">In order to crowdsource some of the ingenuity for building a better town, the businesses which will be most desired will be those who can give something useful back to the community.  Tech companies will be good for this due to how they can improve infrastructure by making it smart, or leveling the playing field by allowing less privileged people access to the best technology.  A company having to do with programming who gave free lessons in schools would be giving back to the community by preparing a workforce able to deal with modern challenges.  Businesses in environmental science and other research fields will be highly desired as resource sustainability is increasingly an issue in the world.  
+</p>
+        </div>
+      </div>
+</div>
+</section>
+<section class="container-fluid" id="section4">
+<div class="container marketing">
+      
+ <div class="row featurette">
+        <div class="col-md-7">
+          <h3 class="featurette-heading">Change In The Workplace Itself</h3>
+          <p class="lead">Because business and businessmen and women should be open to change and always thinking creatively, the spaces in which people work should encourage and foster these characteristics.  In order to enable people to work the fullest while at their offices, working hours will be decreased.  Citizens of Norway, a country ranked first on the prosperity list, work an average of 370 less hours than people in the U.S.  This means shows that quantity can mean the opposite of quality in business and that reduced work hours could greatly improve ingenuity from workers.  In order to create a more equal opportunity based workplace, signs of hierarchy and status will not be displayed in a typical workplace.  Things like hierarchical office spaces or status based clothing will not be appreciated.  This will ensure that there is less intimidation and people feel more able to change within their companies along with create more.  Offices should also inspire creativity as well and change how employees think of their workspace.  Areas in offices that intrigue people or help them do physical work will be promoted.  Something like the swings on the right, at Box, would be greatly recieved in an office.</p>
+        </div>
+        <div class="col-md-5">
+          <img style="margin-top:100px;" class="featurette-image img-circle img-responsive" src="img/officespace.jpg" alt="Generic placeholder image">
+        </div>
+      </div>
+</div>
+</section>
+      <section class="container-fluid" id="section5">
+      <div class="container marketing">
+      <div class="row featurette">
+        <div class="col-md-5">
+          <img style="margin-top:0px;" class="featurette-image img-circle img-responsive" src="img/maker.jpg" alt="Generic placeholder image">
+        </div>
+        <div class="col-md-7">
+          <h3 class="featurette-heading">Innovation And Ingenuity Fair</h3>
+          <p class="lead">Because so many good ideas have the potential to go unnoticed or be thrown in a pile with other not so good ideas, there needs to be a forum in which any individual or business can share their ideas and receive crowd-funded prototype testing.  This means that products can easily be tested by consumers all in a day of innovation.  This fair will be like maker faire in some ways, being open to any one and supporting creativity and tinkering.  The faire will allow people to also get investments in a product they would like to showcase.  This adds to the ways that the community of Pensarora can be used as a valuable resource for creating a community in which everything cycles and is constantly being formed and re-formed.
+</p>
+        </div>
+      </div>
+      </div>
+      </section>
+<section class="container-fluid" id="section6">
+<footer>
+        <p><a href="#">Back to top</a></p>
+        <p>&middot; &copy; 2014 Pensarora &middot;</p>
+      </footer>
+
+    </div><!-- /.container -->
+</div>
+
+<p><a name="translator">
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</a></p>
+<p>Click The "X" On The Upper Right Corner Of The </br>Google Translate Bar To Go Back To English</p>
+</section>

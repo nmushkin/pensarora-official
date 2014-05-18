@@ -1,0 +1,247 @@
+<html>
+<link href="css/bootstrap-trornu.css" rel="stylesheet">
+<link href="css/carouselmain.css" rel="stylesheet">
+<link href="css/cover.css" rel="stylesheet">
+<link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-translate-customization" content="240192e7dffee963-a0dbc3735ecdec56-g0ab6569a6b41ea68-10"></meta>
+</head>
+<style>
+
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+body {
+  background-color:#1d6ed4;
+  -webkit-font-smoothing: antialiased;
+  font: normal 14px Roboto,arial,sans-serif;
+  padding-top: 0px;
+
+	height:100%;
+    background:center no-repeat fixed url('img/treebg.jpg');
+
+
+}
+
+	section {
+	padding-top:40px;  
+    padding-bottom:40px; 
+    min-height: 10%;
+}
+#section1 {
+	background-color: #005f91;
+    color:#ddd;
+    padding-bottom: 10px;
+    padding-top: 30px;
+}    
+  
+#section2 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section3 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section4 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+#section5 {
+	background-color: #005f91;
+    color:#ddd;
+    
+}
+  
+#section6 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section7 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section8 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+
+	
+
+.featurette-heading {
+    margin-top: 0px;
+  }
+	
+	.featurette-heading {
+    margin-top: 0px;
+  }
+
+</style>
+<body style="padding-top:0px;">
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script src="js/bootstrap.js"></script>
+
+<center>
+<font class="">
+
+
+<div class="navbar-wrapper">
+<div class="container">
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+   
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a href="/" class="navbar-brand">Official Website Of Pensarora</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      
+            
+             
+              <ul class="nav masthead-nav">
+              <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">See More <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="farm">Farming</a></li>
+                <li><a href="museums">Library</a></li>
+                <li><a href="art">Art Museum</a></li>
+                <li><a href="mathscience">Math & Sciences</a></li>
+                <li><a href="profit">Non-Profit</a></li>
+                <li><a href="record.php">Recording History</a></li>
+                <li><a href="bibliography">Bibliography</a></li>
+
+          </ul>
+
+        </li>
+
+                <li><a href="/">Home</a></li>
+                <li><a href="government">Government</a></li>
+                <li class="active"><a href="infrastructure">Infrastructure</a></li>
+                <li><a href="edu">Education</a></li>
+                <li><a href="business">Business</a></li>
+               
+              </ul>
+            
+         
+      
+                </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</div>
+</div>
+</div>
+<section class="container-fluid" id="section1">
+<h2>21st Century Infrastructure For A 21st Century City</h2>
+</section>
+<section class="container-fluid" id="section2">
+<div class="container marketing">
+
+
+<div class="row featurette">
+<div class="col-md-5">
+          
+         <iframe class="img-circle" src="https://3dwarehouse.sketchup.com/embed.html?mid=ua8d5f2c8-fa05-40a6-9b3e-0c50415863da&width=400&height=400&etp=im" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="400" height="400" allowfullscreen></iframe>
+                  </div>
+
+      <div class="col-md-7">
+          <h3 class="featurette-heading">Layout Of Pensarora</h3>
+          <p class="lead">In Pensarora, the layout of the city is very important in the overall design.  Instead of making a city based on the usual rectangular grid system, Pensarora will be laid out in a circle.  Spanning out from the park at the city center, different sectors are split up by roads.  This layout makes the use of trains easier and makes navigating the city in general much easier.  The circular system will allow easy transport into the city center or any depth into the city via main lines going in to the city while the circular paths will allow for access to any sector.</p>
+        </div>
+                
+      </div>
+</div>
+</section>
+      <section class="container-fluid" id="section3">
+<div class="container marketing">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h3 class="featurette-heading">Transportation</h3>
+          <p class="lead">
+Because the layout of the city will make it simple to build and very efficient, there will be a system of light rails/trains through which a citizen will be able to reach nearly any destination without the need for a car and in a timely manor. Because the system would be based on real time data on citizen movement throughout the city, it would be much more efficient than stoplights or a bus system.  There would be a few trains that carried passengers straight in and out of the city and also some that would would follow the city's circular layout and bring people to the different sections of town while the in/out trains will bring people farther in and out of the city.  Cars will be banned in the city center in order to decrease emissions and because they will not be needed.  Bikes along with the trains will replace the cars and there will be many bike stations where you can take out a bike for 2 hours at a time at no cost.  In order to keep the bikes from being stolen, citizens and other users will have to enter an I.D. number so that the bikes can be recovered if stolen.</p>
+        </div>
+        <div class="col-md-5">
+          <img style="margin-top:45px;" class="featurette-image img-circle img-responsive" src="img/transportation.jpg" alt="Generic placeholder image">
+        </div>
+      </div>
+
+</div>
+      </section>
+<section class="container-fluid" id="section4">
+<div class="container marketing">
+      <div class="row featurette">
+        <div class="col-md-5">
+          <img class="featurette-image img-circle img-responsive" src="img/energy.jpg" alt="Generic placeholder image">
+        </div>
+        <div class="col-md-7">
+          <h3 class="featurette-heading">Energy Technologies</h3>
+          <p class="lead">
+Because the city slopes downward as it fans outward, any water traveling out of the city center could be used to generate
+power and maybe even get the amount of energy needed to make pumping the water up to the city center free or nearly free. Geothermal energy will be used as frequently as possible in the community.
+All houses and building within the community will be temperature controlled by geothermal heating/cooling. This will help to reduce the cost of operating/owning a home and will also greatly decrease greenhouse gas emissions from the city</p>
+        </div>
+      </div>
+</section>
+      <section class="container-fluid" id="section5">
+<div class="container marketing">
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h3 class="featurette-heading">Integrating Smart Technology</h3>
+          <p class="lead">In Pensarora, the main factor separating its infrastructure from others will be the making it more intelligent instead of acting in a time based manner.  The trains will learn the habits of of citizens in order to become the most beneficial, The I.D. System will give enough trust to citizens and hopefully encourage citizens to use the servcies provided, yet will make sure that stealing doesn't go unnoticed. Using the ids on the train system will help to process analytics having to do with how the population utilizes the infrastructure provided and can therefore be used to improve the systems.  Data used in these analytics along with data from the infrastructure such as where a train is at any moment will be made open source so that individuals will be able to make use of the smart infrastructure and improve their own lives even more.
+</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-circle img-responsive" style="margin-top:10px" src="img/smart.jpg" alt="Generic placeholder image">
+        </div>
+      </div>
+</div>
+      </section>
+      <section class="container-fluid" id="section6">
+      <div class="container marketing">
+      <div class="row featurette">
+        <div class="col-md-5">
+          <img class="featurette-image img-circle img-responsive" src="img/communication.jpg" alt="Generic placeholder image">
+        </div>
+        <div class="col-md-7">
+          <h3 class="featurette-heading">Communication</h3>
+          <p class="lead">Though there have been many advances in communication recently, such as e-mail, it is important to keep some physical form form of sharing letters and notes.  In order to improve mail system however, there will be either pneumatic tubes underground to carry letters and small packages or there may be automated (self driving) mail trucks to carry and deliver mail without need for an expensive human workforce.  It is important that not everything goes digital or we may lose a sense of what creation is like.  Though typing a letter may be faster, with a hand-written letter, one feels as though they have accomplished more.</p>
+        </div>
+      </div>
+      </div>
+      </section>
+      
+      
+
+      <!-- /END THE FEATURETTES -->
+
+
+      <!-- FOOTER -->
+      <section class="container-fluid" id="section7">
+      <footer>
+        <p><a href="#">Back to top</a></p>
+        <p>&middot; &copy; 2014 Pensarora &middot;</p>
+      </footer>
+
+    </div><!-- /.container -->
+</div>
+<p><a name="translator">
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</a></p>
+<p>Click The "X" On The Upper Right Corner Of The </br>Google Translate Bar To Go Back To English</p> 
+
+</section>
+</html>

@@ -1,0 +1,224 @@
+<html>
+<link href="css/bootstrap-trornu.css" rel="stylesheet">
+<link href="css/cover.css" rel="stylesheet">
+<link href="css/carouselmain.css" rel="stylesheet">
+<link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-translate-customization" content="240192e7dffee963-a0dbc3735ecdec56-g0ab6569a6b41ea68-10"></meta>
+</head>
+<style>
+
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+body {
+  background-color:#1d6ed4;
+  -webkit-font-smoothing: antialiased;
+  font: normal 14px Roboto,arial,sans-serif;
+  padding-top: 0px;
+
+	height:100%;
+    background:center no-repeat fixed url('img/treebg.jpg');
+
+
+}
+
+	section {
+	padding-top:40px;  
+    padding-bottom:40px; 
+    min-height: 10%;
+}
+#section1 {
+	background-color: #005f91;
+    color:#ddd;
+    padding-bottom: 10px;
+    padding-top: 30px;
+}    
+  
+#section2 {
+	background-color: #d5d5df;
+    color:#686868;
+    height: 230px;
+}
+  
+#section3 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section4 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+#section5 {
+	background-color: #005f91;
+    color:#ddd;
+    
+}
+  
+#section6 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section7 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section8 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+
+	
+
+.featurette-heading {
+    margin-top: 0px;
+  }
+
+	
+</style>
+<body>
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script src="js/bootstrap.js"></script>
+        
+
+<center>
+<font class="">
+<div class="navbar-wrapper">
+<div class="container">
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+   
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+        <a href="/" class="navbar-brand">Official Website Of Pensarora</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      
+            
+             
+              <ul class="nav masthead-nav">
+              <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">See More <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="farm">Farming</a></li>
+                <li><a href="museums">Library</a></li>
+                <li><a href="art">Art Museum</a></li>
+                <li><a href="mathscience">Math & Sciences</a></li>
+                <li class="active"><a href="profit">Non-Profit</a></li>
+                <li><a href="record.php">Recording History</a></li>
+                <li><a href="bibliography">Bibliography</a></li>
+
+          </ul>
+        </li>
+
+                <li><a href="/">Home</a></li>
+                <li><a href="government">Government</a></li>
+                <li><a href="infrastructure">Infrastructure</a></li>
+                <li><a href="edu">Education</a></li>
+                <li><a href="business">Business</a></li>
+               
+              </ul>
+            
+         
+      
+                </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</div>
+</div>
+</div>
+<section class="container-fluid" id="section1">
+<h2>Pensarora Free News Media Association</h2>
+</section>
+<section class="container-fluid" id="section2">
+<div class="container marketing">
+      <div class="row featurette">
+      
+          <h3 class="featurette-heading">Mission</h3>
+
+
+<p class="lead">The Pensarora Free Media Association aims to review and expose all news published to the community of Pensarora in order to enable citizens to grasp the whole picture of situations and to ensure that the population has access to valid and useful information. 
+</p>
+</div>
+</section>
+<section class="container-fluid" id="section3">
+<div class="container marketing">
+      <div class="row featurette">
+      <div class="col-md-7">
+          <h3 class="featurette-heading">Free Media Association Ratings</h3>
+          <p class="lead"  align="left">
+	          The Free News Media Association will review all articles it can which are being published for the community.  This association will score each article on five factors:</br></br>&middot; Is the information valid? </br> &middot; Does the piece reflect the entire situation described? </br> &middot; What are the motives behind publishing the piece? </br> &middot; Is the reporting biased? </br> &middot; How much of the community is represented by opinions in the piece?</br></br>
+	          
+For each of these questions, along with a short  answer to them, the organization will rate the piece of news media out of 100, with 1 meaning the piece is not valid, does not express the whole situation, etcetera and 100 meaning the piece of news is completely valid, represents the entire situation being portrayed, etc.
+          </p>
+      </div>
+      <div class="col-md-5">
+      <img style="margin-top:0;" height="450px;" class="featurette-image" src="img/scorecardnews.png" alt="Generic placeholder image">
+      <p class="lead">A mock score of a newspaper article, higher values or fuller bars are better.</p>
+
+      </div>
+      </div>
+</div>
+</section>
+<section class="container-fluid" id="section4">
+<div class="container marketing">
+      <div class="row featurette">
+<div class="col-md-5">
+<img style="margin-top:0px;" class="featurette-image img-circle img-responsive" src="img/eye.png" alt="Generic placeholder image">
+</div>
+<div class="col-md-7">
+          <h3 class="featurette-heading" style="margin-top:50px">Improving Public Awareness</h3>
+          <p class="lead"> Pieces of news which are published on public media such as in newspapers or on TV will have their rating put up after the piece.  This will encourage the population to be more aware of the information they are fed and how it is altered before reaching them.  In cases such as campaign ads,  this will serve to better educate the public on issues they might vote on and in turn improve the community by letting people make choices based on true statements rather than false or deceptive advertising. 
+</p>
+</div>
+</section>
+<section class="container-fluid" id="section5">
+<div class="container marketing">
+      <div class="row featurette">
+      <div class="col-md-7">
+          <h3 class="featurette-heading" style="margin-top:50px">Regulating Censorship</h3>
+          <p class="lead">
+This will also serve to deface censorship in the case that a representative of government or another group is trying to block certain information from reaching the public.  This means that the public will be much more aware of issues in their community and more aware of who they can and should trust.  Because there is not as much separation of power in government compared to places such as the U.S., this can serve as a way to regulate government if needed or at least to let the public know the change is needed.  
+	          
+          </p>
+          
+      </div>
+<div class="col-md-5">
+      <img style="margin-top:0px;" class="featurette-image img-circle img-responsive" src="img/censor.jpg" alt="Generic placeholder image">
+
+      </div>
+
+      </div>
+      <div class="col-md-5">
+      </div>
+          </section>
+      </div>
+</div>
+</section>
+<section class="container-fluid" id="section4">
+      <footer>
+        <p><a href="#">Back to top</a></p>
+        <p>&middot; &copy; 2014 Pensarora &middot;</p>
+      </footer>
+
+    </div><!-- /.container -->
+</div>
+
+<p><a name="translator">
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</a></p>
+<p>Click The "X" On The Upper Right Corner Of The </br>Google Translate Bar To Go Back To English</p>
+</section>

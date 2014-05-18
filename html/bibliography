@@ -1,0 +1,228 @@
+<html>
+<link href="css/bootstrap-trornu.css" rel="stylesheet">
+<link href="css/cover.css" rel="stylesheet">
+<link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+<link href="css/carouselmain.css" rel="stylesheet">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-translate-customization" content="240192e7dffee963-a0dbc3735ecdec56-g0ab6569a6b41ea68-10"></meta>
+</head>
+<style>
+
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+body {
+  background-color: #1d6ed4;
+  -webkit-font-smoothing: antialiased;
+  font: normal 14px Roboto,arial,sans-serif;
+  padding-top: 0px;
+  
+	height:100%;
+    background:center no-repeat fixed url('img/treebg.jpg');
+
+
+}
+
+	section {
+	padding-top:40px;  
+    padding-bottom:40px; 
+    
+}
+#section1 {
+	background-color: #005f91;
+    color:#ddd;
+    padding-bottom: 10px;
+    padding-top: 30px;
+}    
+  
+#section2 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section3 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section4 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+#section5 {
+	background-color: #005f91;
+    color:#ddd;
+    
+}
+  
+#section6 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section7 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section8 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+
+</style>
+<body>
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script src="js/bootstrap.js"></script>
+        
+
+<center>
+<font class="">
+<div class="navbar-wrapper">
+<div class="container">
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+   
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+        <a href="/" class="navbar-brand">Official Website Of Pensarora</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      
+            
+             
+              <ul class="nav masthead-nav">
+              <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">See More <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="farm">Farming</a></li>
+                <li><a href="museums">Library</a></li>
+                <li><a href="art">Art Museum</a></li>
+                <li><a href="mathscience">Math & Sciences</a></li>
+                <li><a href="profit">Non-Profit</a></li>
+                <li><a href="record.php">Recording History</a></li>
+                <li class="active"><a href="bibliography">Bibliography</a></li>
+          </ul>
+        </li>
+
+                <li><a href="/">Home</a></li>
+                <li><a href="government">Government</a></li>
+                <li><a href="infrastructure">Infrastructure</a></li>
+                <li class="active"><a href="edu">Education</a></li>
+                <li><a href="business">Business</a></li>
+               
+              </ul>
+            
+         
+      
+                </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</div>
+</div>
+</div>
+<section class="container-fluid" id="section1">
+<h2>Bibliography</h2>
+</section>
+<section class="container-fluid" id="section2">
+<section class="container-fluid" id="section2">
+<div class="container marketing">
+
+
+<div class="row featurette">
+
+<h2 class="featurette-heading" style="margin-top:0px">Works Cited</h2>
+<p class="lead">
+“1105-world-obirdsnest_full_600.jpg.” Christian Science Monitor. N.p., n.d. Web. 13 May 2014. "http://www.csmonitor.com/var/archive/storage/images/media/images/1105-world-obirdsnest/8980520-1-eng-US/1105-world-obirdsnest_full_600.jpg". </br></br>
+“340x270.245964363.jpg.” Etsy. Etsy, n.d. Web. 13 May 2014. "https://img1.etsystatic.com/000/0/6335599/il_340x270.245964363.jpg". </br></br>
+“AI WEIWEI ‘SUNFLOWER SEEDS’ @ MARY BOONE GALLERY, NYC.” Juxtapoz. N.p., n.d. Web. 13 May 2014. "http://www.juxtapoz.com/current/ai-weiwei-sunflower-seeds-mary-boone-gallery-nyc". </br></br>
+“Beautiful House with Perfect Plants and Tree Integration.jpg.” Marvel Building. N.p., n.d. Web. 13 May 2014. "http://www.marvelbuilding.com/wp-content/uploads/2013/12/Beautiful-House-with-Perfect-Plants-and-Tree-Integration-2.jpg". </br></br>
+Biary, Mary Ellen. “Industries To Watch In 2014: The 10 Fastest-Growing Fields.” Forbes. Forbes, n.d. Web. 13 May 2014. "http://www.forbes.com/sites/sageworks/2013/12/29/industries-to-watch-in-2014-the-10-fastest-growing-fields/". </br></br>
+“bogstock-WInd-turbines-16465340.jpg.” PSU. N.p., n.d. Web. 13 May 2014. "http://sites.psu.edu/rclveronicaw/wp-content/uploads/sites/5537/2014/02/bigstock-Wind-turbines-16465340.jpg". </br></br>
+“box-2.” Forbes. N.p., n.d. Web. 13 May 2014. "http://www.forbes.com/pictures/efkk45eghmi/box-2/". </br></br>
+“clyde_hydro_800px.jpg.” Crem Ltd. N.p., n.d. Web. 13 May 2014. "http://www.crem-ltd.com/images/clyde_hydro_800px.jpg". </br></br>
+“Coal.” Wadsam. N.p., n.d. Web. 13 May 2014. "http://www.wadsam.com/wp-content/uploads/2013/11/coal.jpg". </br></br>
+“The Communist Manifetso.” Wikipedia. Wikipedia.org, n.d. Web. 13 May 2014. "http://en.wikipedia.org/wiki/The_Communist_Manifesto". </br></br>
+“Country Statistical Profile: Norway.” OECD Library. N.p., n.d. Web. 13 May 2014. "http://www.oecd-ilibrary.org/economics/country-statistical-profile-norway_20752288-table-nor". </br></br>
+Dalí, Salavdor. Persistence of Memory. N.d. Painting. </br></br>
+ Dianneque. N.p., n.d. Web. 13 May 2014. "http://dianneque.com/maker-faire-may-19-20-san-mateo-ca/". </br></br>
+“Differential Equation.” Wikipedia. Wikipedia.org, n.d. Web. 13 May 2014. "http://en.wikipedia.org/wiki/Differential_equation". </br></br>
+“Doing Business in Sweden.” Kwintessential. N.p., n.d. Web. 13 May 2014. "http://www.kwintessential.co.uk/etiquette/doing-business-sweden.html". </br></br>
+“Dubai Infrastructure And Logistics.” Dubaidi.gov.ae. Dubai, n.d. Web. 13 May 2014. "http://www.dubaifdi.gov.ae/en/fdiservices/whydubai/pages/dubai-infrastructure-and-logistics.aspx". </br></br>
+“Earthy Elements, Andy Goldsworthy (b UK 1956).” Earthy Elements. N.p., n.d. Web. 13 May 2014. "http://earthy-elements.blogspot.com/2011/01/andy-goldsworthy-b-uk-1956.html". </br></br>
+“Elmer Pump Heatequation.png.” Wikipedia. N.p., n.d. Web. 13 May 2014. "http://en.wikipedia.org/wiki/File:Elmer-pump-heatequation.png". </br></br>
+“Esperanto.” Wikipedia. Wikipedia. Web. 13 May 2014. "http://en.wikipedia.org/wiki/Esperanto". </br></br>
+Fibre-optic-2-1200x800px.jpg. JPG file. </br></br>
+Hellman, Christopher. “The World’s Happiest (And Saddest) Countries, 2013.” Forbes. N.p., n.d. Web. 13 May 2014. "http://www.forbes.com/sites/christopherhelman/2013/10/29/the-worlds-happiest-and-saddest-countries-2013/". </br></br>
+“Is The Corner Office Worth It.” U.S. News. N.p., n.d. Web. 13 May 2014. "http://www.usnews.com/opinion/blogs/economic-intelligence/2013/04/19/how-office-space-affects-company-productivity". </br></br>
+Jones, Jonathan. “The ten most criminal artists ever.” The Gaurdian. N.p., n.d. Web. 13 May 2014. "http://www.theguardian.com/artanddesign/jonathanjonesblog/2014/feb/27/most-criminal-artists-picasso-banksy-caravaggio". </br></br>
+JourneyMan Pictures. The Singapore Vertical Farms That Herald A Revolution. Youtube. N.p., n.d. Web. 13 May 2014. "https://www.youtube.com/watch?v=2nFQOkzEjxQ". </br></br>
+ lpost. N.p., n.d. Web. 13 May 2014. "http://lpost.ru/futuro/2013/01/14/ces-2013-smartfon-kak-volshebnaya-palochka-v-dome-budushhego/". </br></br>
+Lynas, Mark. “The myth of easter island’s ecocide.” Mark Lynas. N.p., n.d. Web. 13 May 2014. "http://www.marklynas.org/2011/09/the-myth-of-easter-islands-ecocide/". </br></br>
+ Makoto Tojiki. N.p., n.d. Web. 13 May 2014. "http://www.makototojiki.com/noshadow-dl.html". </br></br>
+Marcel Duchamp. Fountain. N.d. Sculpture. </br></br>
+“maxresdefault.jpg.” ytimg.com. N.p., n.d. Web. 13 May 2014. "http://i1.ytimg.com/vi/4en5xVPzq58/maxresdefault.jpg". </br></br>
+Morris, Joan. “The Right Irrigation System Will Help Conserve Water.” Mercury News. N.p., n.d. Web. 13 May 2014. "http://www.mercurynews.com/home-garden/ci_25669984/right-irrigation-system-will-help-conserve-water". </br></br>
+MVVA. “Bridge Park Verizon.” The Architect’s Newspaper. N.p., n.d. Web. 13 May 2014. "http://archpaper.com/uploads/image/Bridge_Park_Verizon.jpg". </br></br>
+“Nineteen Eighty-Four.” Wikipedia. Wikipedia.org, n.d. Web. 13 May 2014. "http://en.wikipedia.org/wiki/Nineteen_Eighty-Four". </br></br>
+ OEDB. N.p., n.d. Web. 13 May 2014. "http://oedb.org/ilibrarian/50_books_that_changed_the_world/". </br></br>
+“The 100 Best Books Of All Time.” Wikipedia. Wikipedia.org, n.d. Web. 13 May 2014. "http://en.wikipedia.org/wiki/The_100_Best_Books_of_All_Time". </br></br>
+“Outdoor Classroom.” Swarthmore. N.p., n.d. Web. 13 May 2014. "http://www.swarthmore.edu/images/news/outdoor_classroom.jpg". </br></br>
+Prog, Luke. “100 Greatest Paintings of all time (pics).” Listology. N.p., n.d. Web. 13 May 2014. "http://www.listology.com/lukeprog/list/100-greatest-paintings-all-time-pics/". </br></br>
+“Prosperity Index.” Prosperity. Legatum Institute, n.d. Web. 13 May 2014. "http://www.prosperity.com/#!/". </br></br>
+“Rail Budget: A Wish To Have Bullet Trains In India.” railkarmi. Wordpress, n.d. Web. 13 May 2014. "http://railkarmi.wordpress.com/2013/02/20/rail-budget-a-wish-to-have-bullet-trains-in-india/". </br></br>
+Raule, Rick. “the top 10 most important paintings of all time.” Toptenz. N.p., n.d. Web. 13 May 2014. "http://www.toptenz.net/the-top-10-paintings-of-all-time.php". </br></br>
+science%20slayer%20science%20fiction%20dna%201366x768%20wallpaper_www.wall321.com_29.jpg. JPG file. </br></br>
+Spins, Michael, ed. “Andy Goldsworthy: Four Indoor Galleries and Open Air.” Studio International. N.p., n.d. Web. 13 May 2014. "http://www.studiointernational.com/index.php/andy-goldsworthy-four-indoor-galleries-and-open-air". </br></br>
+“10 Blockbuster Buildings From Around The World.” Architectural Digest. N.p., n.d. Web. 13 May 2014. "http://www.architecturaldigest.com/architecture/2013-02/best-architectural-projects-slideshow_slideshow_item17_18". </br></br>
+“Things Fall Apart.” Wikipedia. Wikpedia.org, n.d. Web. 13 May 2014. "http://en.wikipedia.org/wiki/Things_Fall_Apart, Things Fall Apart, Various Authors". </br></br>
+Tojiki, Mokoto. Hopes And Dreams. N.d. Sculpture. </br></br>
+“VF-TowerGardenOF-06.gif.” Aljazeera. N.p., n.d. Web. 13 May 2014. "http://america.aljazeera.com/content/dam/ajam/images/shows/innovation/000-pilot-verticalfarming/VF-TowerGardenOF-06.gif". </br></br>
+“Vintage-School-Desk-America-2.jpg.” 1.bp.blogspot.com. N.p., n.d. Web. 13 May 2014. "http://2.bp.blogspot.com/-I2FarL7t3-M/TzFBQqlP-uI/AAAAAAAAAco/BHXk8nlhla8/s640/vintage+school+desk+america+2.jpg". </br></br>
+“web.jpg.” blogspot. N.p., n.d. Web. 13 May 2014. "http://4.bp.blogspot.com/_BcfCFUj7dW4/S_fv3YJx04I/AAAAAAAAAwg/8rMo_9gl9PY/s1600/web.jpg". </br></br>
+West, Larry. “Top 7 Renewable Energy Resources.” About.com. About.com, n.d. Web. 13 May 2014.
+“windmill2.jpg.” Supply Chain Beyond. N.p., n.d. Web. 13 May 2014. "http://supplychainbeyond.com/wp-content/uploads/2012/11/windmill2.jpg". </br></br>
+Yamamoto, Motoi. Utsusemi. N.d. Sculpture. </br></br>
+"Autonomy." Wikepedia. Wikepedia.org, n.d. Web. 13 May 2014. "http://en.wikipedia.org/wiki/ 
+     Autonomy". 
+</br></br>
+Hoyt, Alia. "How Communism Works." How Stuff Works. How Stuff Works, n.d. Web. 13 May 2014. 
+     "http://people.howstuffworks.com/communism4.htm". 
+</br></br>
+"Bicycle Wheel." Design Boom. N.p., n.d. Web. 13 May 2014. 
+     "http://designboom.com/weblog/images/images_2/lara/818_images/prada/ 
+     small_utopia_15.jpg". </p>
+
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="container-fluid" id="section3" style="margin-bottom:0px">
+<footer>
+        <p><a href="#">Back to top</a></p>
+        <p>&middot; &copy; 2014 Pensarora &middot;</p>
+      </footer>
+
+   <p><a name="translator">
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</a></p>
+<p>Click The "X" On The Upper Right Corner Of The </br>Google Translate Bar To Go Back To English</p> 
+
+
+</section>
+</html>
+
+

@@ -1,0 +1,217 @@
+<html>
+<link href="css/bootstrap-trornu.css" rel="stylesheet">
+<link href="css/cover.css" rel="stylesheet">
+<link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-translate-customization" content="240192e7dffee963-a0dbc3735ecdec56-g0ab6569a6b41ea68-10"></meta>
+</head>
+<style>
+
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+body {
+  background-color:#1d6ed4;
+  -webkit-font-smoothing: antialiased;
+  font: normal 14px Roboto,arial,sans-serif;
+  padding-top: 0px;
+
+	height:100%;
+    background:center no-repeat fixed url('img/treenoblur.jpg');
+
+    a,
+a:focus,
+a:hover {
+  color: #ddd;
+}
+
+
+}
+    a,
+a:focus,
+a:hover {
+  color: #ddd;
+}
+
+	section {
+	padding-top:40px;  
+    padding-bottom:40px; 
+    
+}
+#section1 {
+	background-color: #005f91;
+    color:#ddd;
+    padding-bottom: 10px;
+    padding-top: 50px;
+}    
+  
+#section2 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section3 {
+	background-color: #005f91;
+    color:#ddd;
+
+}
+
+#section4 {
+	background-color: #d5d5df;
+    color:#686868;
+    }
+#section5 {
+	background-color: #005f91;
+    color:#ddd;
+    
+}
+  
+#section6 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section7 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section8 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+#sectionpic {
+	background-color: transparent;
+    color:#ffffff;
+    min-height: 200px;
+        }
+
+	
+
+.featurette-heading {
+    margin-top: 0px;
+  }
+
+	
+</style>
+<body>
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script src="js/bootstrap.js"></script>
+        
+
+<center>
+<font class="">
+<div class="navbar-wrapper">
+<div class="container">
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+   
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+        <a href="/" class="navbar-brand">Official Website Of Pensarora</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      
+            
+             
+                 <ul class="nav masthead-nav">
+              <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">See More <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="farm">Farming</a></li>
+                <li><a href="museums">Library</a></li>
+                <li><a href="art">Art Museum</a></li>
+                <li class="active"><a href="mathscience">Math & Sciences</a></li>
+                <li><a href="profit">Non-Profit</a></li>
+                <li><a href="record.php">Recording History</a></li>
+                <li><a href="bibliography">Bibliography</a></li>
+
+          </ul>
+        </li>
+
+                <li><a href="/">Home</a></li>
+                <li><a href="government">Government</a></li>
+                <li><a href="infrastructure">Infrastructure</a></li>
+                <li><a href="edu">Education</a></li>
+                <li><a href="business">Business</a></li>
+               
+              </ul>
+            
+         
+      
+                </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</div>
+</div>
+</div>
+
+<section class="container-fluid" id="section1">
+<h2>The Villani Institute For Environmental Sciences And Simulation And P.D.E.</h2>
+</section>
+<section class="container-fluid" id="section2">
+<div class="container marketing">
+
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h3 class="featurette-heading">Villani</h3>
+          <p class="lead">
+The math and sciences institute is named after Cédric Villani, a 2010 Fields Medal recipient for work on Partial Differential Equations.  Partial Differential Equations can simulate situations and simulate different phenomena such as heat or fluid flow.  The research done at the math institute could then correlate directly with the science department because the math institute could simulate situations in order to help improve the work being done on environmental sciences.  These situations could include those of energy production, climate change and other situations in order to see the effects of different projects without having to build prototypes which would save money and time.  Partial Differential Equations can simulate entities such as sound, heat, electrostatics, electrodynamics, fluid flow, elasticity, or quantum mechanics which means that whenever a problem occurs in the community, the best way to find a solution would be to simulate ideas at the institution to find which one works the best.
+          </p>
+        </div>
+<div class="col-md-5">
+          <img style="margin-top:25px; margin-bottom:10px;" class="featurette-image img-circle img-responsive" src="img/pde.jpg" alt="Generic placeholder image">
+          <p class="lead">Visualization of heat transfer in a pump casing, this simulation could be achieved through P.D.E.</p>
+        </div>
+      </div>
+</div>
+</section>
+<section class="container-fluid" id="sectionpic">
+<div class="container marketing">
+
+
+      <div class="row featurette">
+        
+          <h1 class="featurette-heading" style="margin-top: 40px">Environmental Sciences And Integration</h1>
+          
+      </div>
+</div>
+</section>
+<section class="container-fluid" id="section3">
+<div class="container marketing">
+
+
+      <div class="row featurette">
+      <h3 class="featurette-heading">Mission Of Sciences Branch</h3>
+<p class="lead">The science institute will study environmental sciences and how to use natural resources and renewable resources as un-invasively and sustainably as possibly.  This institute will be responsible for improving the energy infrastructure of Pensarora along with researching how to better integrate nature into the everyday lives of community members.  Work like that of The <u><a href="http://urbangreenspaces.org/" target="_blank">Urban Green Spaces Institute</a></u>, who focus on integrating nature in cities and other urban areas, would be one of the focuses of the science branch of the Villani institute.  One way this would be accomplished is by holding annual or more frequent environmental days in which the citizens all gather to improve the natural and green spaces within the community by planting trees, working on recreational space improvement and upkeep for bike and hiking trails located on the outside of the city.  The Environmental Sciences branch will also be responsible for educating children in school about the importance of the natural and untouched world along with how to protect it.  This, like a course on government, will be mandatory in schooling.</p>
+      </div>
+      <div class="row featurette">
+      <div class="col-md-4"><img style="margin-top:20px" src="img/environment1.jpg" class="featurette-image img-circle img-responsive"><p style="margin-top:40px"  class="lead">Some of the environmental sciences sector would focus on integrating nature into architecture, like in the picture above.</p></div>
+      <div class="col-md-4"><img style="margin-top:20px" src="img/environment2.jpg" class="featurette-image img-circle img-responsive"><p style="margin-top:40px"  class="lead">One of the main focuses on nature integration would be improving public space such as was done in Brooklyn Bridge Park, New York.</div>
+      <div class="col-md-4"><img style="margin-top:20px" src="img/environment3.jpg" class="featurette-image img-circle img-responsive"><p style="margin-top:40px" class="lead">Besides making elements of nature common in public space, the institute would also research new types of energy such as hydroelectric power.</p></div>
+</div>
+</section>
+<section class="container-fluid" id="section4">
+      <footer>
+        <p><a style="color:#686868" href="#">Back to top</a></p>
+        <p>&middot; &copy; 2014 Pensarora &middot;</p>
+      </footer>
+
+    </div><!-- /.container -->
+</div>
+<p><a name="translator">
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</a></p>
+<p>Click The "X" On The Upper Right Corner Of The </br>Google Translate Bar To Go Back To English</p>
+        

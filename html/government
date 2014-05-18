@@ -1,0 +1,192 @@
+<html>
+<link href="css/bootstrap-trornu.css" rel="stylesheet">
+<link href="css/carouselmain.css" rel="stylesheet">
+<link href="css/cover.css" rel="stylesheet">
+<link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-translate-customization" content="240192e7dffee963-a0dbc3735ecdec56-g0ab6569a6b41ea68-10"></meta>
+</head>
+<style>
+
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+body {
+  background-color:#1d6ed4;
+  -webkit-font-smoothing: antialiased;
+  font: normal 14px Roboto,arial,sans-serif;
+  padding-top: 0px;
+
+	height:100%;
+    background:center no-repeat fixed url('img/treebg.jpg');
+
+
+}
+
+	section {
+	padding-top:40px;  
+    padding-bottom:40px; 
+    min-height: 10%;
+}
+#section1 {
+	background-color: #005f91;
+    color:#ddd;
+    padding-bottom: 10px;
+    padding-top: 30px;
+}    
+  
+#section2 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section3 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section4 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+#section5 {
+	background-color: #005f91;
+    color:#ddd;
+    
+}
+  
+#section6 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section7 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section8 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+
+	
+
+.featurette-heading {
+    margin-top: 0px;
+  }
+
+	
+.featurette-heading {
+    margin-top: 0px;
+  }
+
+</style>
+<body>
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script src="js/bootstrap.js"></script>
+        
+
+<center>
+<font class="">
+<div class="navbar-wrapper">
+<div class="container">
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+   
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+        <a href="/" class="navbar-brand">Official Website Of Pensarora</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      
+            
+             
+                 <ul class="nav masthead-nav">
+              <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">See More <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="farm">Farming</a></li>
+                <li><a href="museums">Library</a></li>
+                <li><a href="art">Art Museum</a></li>
+                <li><a href="mathscience">Math & Sciences</a></li>
+                <li><a href="profit">Non-Profit</a></li>
+                <li><a href="record.php.php">Recording History</a></li>
+                <li><a href="bibliography">Bibliography</a></li>
+
+          </ul>
+        </li>
+
+                <li><a href="/">Home</a></li>
+                <li class="active"><a href="government">Government</a></li>
+                <li><a href="infrastructure">Infrastructure</a></li>
+                <li><a href="edu">Education</a></li>
+                <li><a href="business">Business</a></li>
+               
+              </ul>
+            
+         
+      
+                </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</div>
+</div>
+</div>
+<section class="container-fluid" id="section1">
+<h2>Goverment</h2>
+</section>
+<section class="container-fluid" id="section2">
+<div class="container marketing">
+<img usemap="govdiagram" src="img/governmentdiagram.png">
+<h3 class="featurette-heading" id="title">Hover Over A Box To See It Explained</h3>
+<p class="lead" id="desc"></p>
+
+      
+       
+ 
+<map id="govdiagram" name="govdiagram"><area shape="rect" alt="" title="supreme" coords="77,11,268,104" href="" onMouseOver="document.getElementById('desc').innerHTML='The ten supreme representatives have the most power in government.  These ten individuals are responsible for deciding on votes proposed by the general population, as well as proposing new laws and also being the first step of approval for sector taxation changes.  On matters of war and international or larger affairs, any decision made by the supreme representatives will then need to be approved by the confirmation representatives.  Any laws proposed by the supreme representatives will be voted on directly by the general population, in order for the community to be more directly a product of its citizens.'; document.getElementById('title').innerHTML='Supreme Representatives'"  target="" /><area shape="rect" alt="" title="confirmation" coords="473,12,663,108" href="" onMouseOver="document.getElementById('desc').innerHTML='It will be the confirmation representatives&#8217 duty to approve out of community affairs such as something like war.  It will also be their duty to do final approvals of taxation changes if approved by the supreme representatives.  In order to help better balance power, if the confirmation representatives sense that the supreme representatives are lossing control or abusing power, it is their duty to intervene.' ; document.getElementById('title').innerHTML='Confirmation Representatives'"  target='' /><area shape="rect" alt="" title="sectors" coords="77,157,663,283" href="" onMouseOver="document.getElementById('desc').innerHTML='The community will be geographically divided into six sectors each governed by a group of ten people.  These sectors will be able to self govern service related items such as road upkeep, garbage collection and policing. able to take laws proposed by citizens and if they decide they are fit, can pass the laws on to the supreme representatives for final approval.  The sectors will each have a mayor who will be in charge of most of the sector affairs and mayors will be elected by their own sectors and can serve for one year.'; document.getElementById('title').innerHTML='Sectors'"  target="" /><area shape="rect" alt="" title="general" coords="75,338,665,464" href="" onMouseOver="document.getElementById('desc').innerHTML='The general population will be able to directly vote on all proposed laws and will be able to propose laws to the supreme representatives through their sectors.  The general population will have more of a say than people in systems such as those of the United States because of their direct connection to all proposed laws.  Elections will be based on popular vote rather than the electoral vote system.'; document.getElementById('title').innerHTML='General Population'"  target="" /></map>
+</div>
+</section>
+<section class="container-fluid" id="section3">
+<div class="container marketing">
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h3 class="featurette-heading">Details Of Government</h3>
+          <p class="lead">
+The supreme and confirmation representatives will serve one year terms each. Every year, entirely new supreme and confirmation representative groups will take over control, yet to make sure the new representatives are completely informed, there will be a transition month in which the new and old groups share ideas and educate each other on the current situations. The short terms allow for power to change and never corrupt the system by letting one person take too much control of it. Each candidate will be given an equal sum of money for campaigning. Anyone can run except in order to get campaign money to become an official candidate, one must enter themselves in a "pre-ballot" and of that ballot, only the twenty most voted for will be given the money to run for election to one of the ten representative positions.  Because only one yearlong term will be allowed, no time while in control will go to finding campaign supporters and funding.  Voting for sector mayors, supreme representatives and confirmation representatives will all be done via a website annually for the two latter groups and every two years for the mayors.  Voting will be mandatory and in order to provide as much fraud protection as possible, in order to vote, citizens will enter their I.D. number also used for transport.  Only ballots cast using official I.D.s will be cast and processed.  Instead of having what can sometimes be an extremely complicated system as is the case in the U.S. government (pictured at right), the government of Pensarora aims to be more dynamic and controlled more by the will of its people.</p>
+        </div>
+        <div class="col-md-5">
+          <img style="margin-top:130px;" class="featurette-image img-circle img-responsive" src="img/usdiagram.jpg" alt="Generic placeholder image">
+        </div>
+        
+      </div>
+
+
+
+      </div>
+
+</section>
+<section class="container-fluid" id="section4">
+      <footer>
+        <p><a href="#">Back to top</a></p>
+        <p>&middot; &copy; 2014 Pensarora &middot;</p>
+      </footer>
+
+    </div><!-- /.container -->
+</div>
+<p><a name="translator">
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</a></p>
+<p>Click The "X" On The Upper Right Corner Of The </br>Google Translate Bar To Go Back To English</p>
+</section>

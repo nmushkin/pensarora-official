@@ -1,0 +1,228 @@
+<html>
+<link href="css/bootstrap-trornu.css" rel="stylesheet">
+<link href="css/carouselmain.css" rel="stylesheet">
+<link href="css/cover.css" rel="stylesheet">
+<link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-translate-customization" content="240192e7dffee963-a0dbc3735ecdec56-g0ab6569a6b41ea68-10"></meta>
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script src="js/bootstrap.js"></script>
+
+</head>
+<style>
+
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+body {
+  background-color:#005f91;
+  -webkit-font-smoothing: antialiased;
+  font: normal 14px Roboto,arial,sans-serif;
+  padding-top: 0px;
+
+
+	height:100%;
+    background:center no-repeat fixed url('img/treebg.jpg');
+
+
+}
+
+	section {
+	padding-top:40px;  
+    padding-bottom:40px; 
+    min-height: 10%;
+}
+#section1 {
+	background-color: #005f91;
+    color:#ddd;
+    padding-bottom: 10px;
+    padding-top: 30px;
+}    
+  
+#section2 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section3 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section4 {
+	background-color: #d5d5df;
+    color:#686868;
+    min-height: calc(95%);
+}
+#section5 {
+	background-color: #005f91;
+    color:#ddd;
+    
+    
+}
+  
+#section6 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section7 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section8 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+
+	
+
+.featurette-heading {
+    margin-top: 0px;
+  }
+.carousel {
+  height: 820px;
+  
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  z-index: 10;
+  
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+  height: 80%;
+  background-color: rgba(255,255,255,0.0);
+  margin-top: 5%;
+
+  
+  }
+  
+  .carousel-inner > .item > img {
+  
+  
+ }
+ </style>
+<body onload="myFunction()">
+        
+        
+<center>
+<font class="">
+<div class="navbar-wrapper">
+<div class="container">
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+   
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+        <a href="/" class="navbar-brand">Official Website Of Pensarora</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      
+            
+             
+                 <ul class="nav masthead-nav">
+              <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">See More <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="farm">Farming</a></li>
+                <li class="active"><a href="museums">Library</a></li>
+                <li><a href="art">Art Museum</a></li>
+                <li><a href="mathscience">Math & Sciences</a></li>
+                <li><a href="profit">Non-Profit</a></li>
+                <li><a href="record.php">Recording History</a></li>
+                <li><a href="bibliography">Bibliography</a></li>
+
+          </ul>
+        </li>
+
+                <li><a href="/">Home</a></li>
+                <li><a href="government">Government</a></li>
+                <li><a href="infrastructure">Infrastructure</a></li>
+                <li><a href="edu">Education</a></li>
+                <li><a href="business">Business</a></li>
+               
+              </ul>
+            
+         
+      
+                </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</div>
+</div>
+</div>
+<section class="container-fluid" id="section1">
+<h2>Library And Art Museum</h2>
+</section>
+<section class="container-fluid" id="section2">
+<div class="container marketing">
+
+
+
+      
+      <div class="row featurette">
+                <div class="col-md-12">
+          <h3 class="featurette-heading" id="title">Hover Over A Cover To See An Explanation</h3>
+          <p class="lead" id="bookex">
+          </p>
+
+        </div>
+      </div>
+
+      <img src="img/books.jpg" usemap="#bookmap">
+     
+<map id="bookmap" name="bookmap"><area shape="rect" alt="rights" title="" coords="3,1,173,274" onMouseOver="document.getElementById('bookex').innerHTML='This book is part of the collection at the Pensarora Library due to the issues it addresses about the necessary duties of government.  Because Pensarora needs to remain a community in which all individuals are satisfied both with themselves and with others, the lessons in this book will help to educate citizens on what the government should always look like.'; document.getElementById('title').innerHTML='The Rights Of Man By Thomas Paine' "target="_self" /><area shape="rect" alt="sea" title="" coords="185,4,366,273" onMouseOver="document.getElementById('bookex').innerHTML='This book is included in the collection of the Library of Pensarora due to the deeper messages throughout the novel regarding acceptance of change.  This book identifies change as something unavoidable, yet also something which should be good for all it reaches.  Pensarora aims to have a population that welcomes change into their lives, whether it be changes in government or changes in who lives next door.'; document.getElementById('title').innerHTML='The Old Man And The Sea By Earnest Hemingway'" target="" /><area shape="rect" alt="communist" title="" coords="375,4,556,276" onMouseOver="document.getElementById('bookex').innerHTML='The Comunist Manifesto deserves a spot on the shelves of the library in order to introduce the citizens of Pensarora to a different way of thinking about government than what they may be experiencing in person.  If they desire, citizens in office can pick and choose ideas from what they read and find ways to integrate them into Pensarora.'; document.getElementById('title').innerHTML='The Communist Manifesto By Karl Marx And Friedrich Engels'" target="" /><area shape="rect" alt="animal" title="" coords="574,6,754,265" onMouseOver="document.getElementById('bookex').innerHTML='Animal Farm will have a place in Pensarora&#8217s library because of how it demonstrates the importance of knowing how not to become absorbed in power that is available to one.  This book shows how corruption manifests and why, along with the reasons as to why this should not be the case.  Citizens of Pensarora should always be able to evaluate their situations and be able to change them if necessary.'; document.getElementById('title').innerHTML='Animal Farm By George Orwell' "target="" /><area shape="rect" alt="testament" title="" coords="771,5,976,266" onMouseOver="document.getElementById('bookex').innerHTML='The Old Testament will be in the library because the texts contain a large amount of history and thinking unscathed by the opinions and politics brought into much of life today.'; document.getElementById('title').innerHTML='The Old Testament'""" target="" /><area shape="rect" alt="guerilla" title="" coords="7,284,171,553" onMouseOver="document.getElementById('bookex').innerHTML='Guerilla Warfare, though somewhat of a maual, will be included in the library in order to help to educate citizens about governmental cituations that should not be allowed to arise, and also if they do arise, how to act.  This way the citizens of Pensarora should know how to self-regulate government.'; document.getElementById('title').innerHTML='Guerilla Warfare By Ernesto &quotChe&quot Guevara'" target="" /><area shape="rect" alt="utopia" title="" coords="182,282,365,551" onMouseOver="document.getElementById('bookex').innerHTML='Utopia is a good selection because it tells of how a perfect society can at first glance seems great, and then, after examining it more closely, one realizes that the benefits might no be worth the downsides. This will also challenge people to form their own opinions on how society should be and hopefully make them want to run for an office seat so that they could enact their newfound ideas, which would help to generate an more dynamic community with a varying government.'; document.getElementById('title').innerHTML='Utopia By Thomas Moore'" target="" /><area shape="rect" alt="mockingbird" title="" coords="375,283,554,555" onMouseOver="document.getElementById('bookex').innerHTML='To Kill A Mockingbird will be selected for the library because it is able to explain how change and acceptance are needed in any society in order for its citizens to prosper.'; document.getElementById('title').innerHTML='To Kill A Mockingbird By Harper Lee'" target="" /><area shape="rect" alt="apart" title="Apart" coords="561,280,763,555" onMouseOver="document.getElementById('bookex').innerHTML='Things Fall Apart will be a very good choice for the library because it describes the inevitability of society being dynamic rather than static, something which the citizens of Pensarora should be open to.'; document.getElementById('title').innerHTML='Things Fall Apart By Chinua Achebe'" target="" /><area shape="rect" alt="underground" title="Underground" coords="770,274,981,553" onMouseOver="document.getElementById('bookex').innerHTML='Notes From The Underground will bes desired in the library because of how Dostoyevsky believed that the people at somewhat of the bottom of society can be the people who are the purest and almost more truly good.  This will be useful because it can change how people think of class systems and hopefully improve how lower status citizens are treated.'; document.getElementById('title').innerHTML='Notes From The Underground By Fyodor Dostoyevsky'" target="" /></map>
+<div class="container marketing">
+
+
+
+</section>
+<section class="container-fluid" id="section2">
+
+
+                  
+          
+        
+        <div class="col-md-6" style="margin-bottom:20px">
+          <iframe src="https://3dwarehouse.sketchup.com/embed.html?mid=ucc732c8d-3bdb-4b27-96ea-69fffb9b3431&width=400&height=400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="400" height="400" allowfullscreen></iframe>
+        </div>
+      <div class="col-md-6" style="margin-bottom:20px">
+          <img src="img/library.jpg">
+        </div>
+
+      </div>
+      <div class="container marketing">
+      <div class="row featurette">
+      
+          <h3 class="featurette-heading">Design Of The Library</h3>
+          <p class="lead">The Library will be located in the central park within the city.  Only the vegetation covered dome will be visible from the surface.  This will let the library remain in a central and easy to access location but have a minimal disturbance to the nature in the park itself.  The inside will be much more elaborate than in this model and will look somewhat similar to the picture at upper right, fitting into the cylindrical shape of course.</p>
+        </div>
+        
+</section>
+
+
+</div>
+<section class="container-fluid" id="section3">
+<footer>
+        <p><a href="#">Back to top</a></p>
+        <p>&middot; &copy; 2014 Pensarora &middot;</p>
+
+<p><a name="translator">
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</a></p>
+<p>Click The "X" On The Upper Right Corner Of The </br>Google Translate Bar To Go Back To English</p>
+</footer>
+</section>    

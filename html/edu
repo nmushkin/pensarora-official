@@ -1,0 +1,205 @@
+<html>
+<link href="css/bootstrap-trornu.css" rel="stylesheet">
+<link href="css/cover.css" rel="stylesheet">
+<link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-translate-customization" content="240192e7dffee963-a0dbc3735ecdec56-g0ab6569a6b41ea68-10"></meta>
+</head>
+<style>
+
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+body {
+  background-color: #1d6ed4;
+  -webkit-font-smoothing: antialiased;
+  font: normal 14px Roboto,arial,sans-serif;
+  padding-top: 0px;
+  
+	height:100%;
+    background:center no-repeat fixed url('img/treebg.jpg');
+
+
+}
+
+	section {
+	padding-top:40px;  
+    padding-bottom:40px; 
+    min-height: 10%;
+}
+#section1 {
+	background-color: #005f91;
+    color:#ddd;
+    padding-bottom: 10px;
+    padding-top: 50px;
+}    
+  
+#section2 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section3 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section4 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+#section5 {
+	background-color: #005f91;
+    color:#ddd;
+    
+}
+  
+#section6 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+  
+#section7 {
+	background-color: #005f91;
+    color:#ddd;
+}
+
+#section8 {
+	background-color: #d5d5df;
+    color:#686868;
+}
+
+</style>
+<body>
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script src="js/bootstrap.js"></script>
+        
+
+<center>
+<font class="">
+<div class="navbar-wrapper">
+<div class="container">
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+   
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+        <a href="/" class="navbar-brand">Official Website Of Pensarora</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      
+            
+             
+              <ul class="nav masthead-nav">
+              <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">See More <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="farm">Farming</a></li>
+                <li><a href="museums">Library</a></li>
+                <li><a href="art">Art Museum</a></li>
+                <li><a href="mathscience">Math & Sciences</a></li>
+                <li><a href="profit">Non-Profit</a></li>
+                <li><a href="record.php">Recording History</a></li>
+                <li><a href="bibliography">Bibliography</a></li>
+
+          </ul>
+        </li>
+
+                <li><a href="/">Home</a></li>
+                <li><a href="government">Government</a></li>
+                <li><a href="infrastructure">Infrastructure</a></li>
+                <li class="active"><a href="edu">Education</a></li>
+                <li><a href="business">Business</a></li>
+               
+              </ul>
+            
+         
+      
+                </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</div>
+</div>
+</div>
+<section class="container-fluid" id="section1">
+<h2>Ideas For A Modernized Education System</h2>
+</section>
+
+
+<section class="container-fluid" id="section2">
+<div class="container marketing">
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h3 class="featurette-heading">Changing The Way Kids Are Taught For The First Time In A While</h3>
+          <p class="lead">
+School systems everywhere are lacking in one thing: ability to change.  Schools even now have not been majorly updated since the early 20th century.  Schools in Pensarora will be very student driven in curriculum.  Students will take classes on a weekly basis.  This way, all attention will be focused on the work of one class at a time, but it will also be dynamic enough so that students do not become bored.  At the beginning of the schcool year, students will plan how they would like to have their classes scheduled (order, which classes, etc) and will be grouped with like students. </p>
+        </div>
+        <div class="col-md-5">
+          <img style="margin-top:0px;" class="featurette-image img-circle img-responsive" src="img/desk.jpg" alt="Generic placeholder image">
+        </div>
+      </div>
+</div>
+
+</section>
+      
+<section class="container-fluid" id="section3">
+<div class="container marketing">
+      <div class="row featurette">
+        <div class="col-md-5">
+          <img class="featurette-image img-circle img-responsive" src="img/outclass.jpg" alt="Generic placeholder image">
+        </div>
+        <div class="col-md-7">
+          <h3 class="featurette-heading">Changing How The Classroom Is Thought Of</h3>
+          <p class="lead">Students will learn how to better apply knowledge and find uses for knowledge if given stimulating situations.  Schools in the community will not teach children in a classroom all the time.  Instead, students will be put in situations where they can apply their knowledge which they have learned in previous week sessions.  So every other week will be putting skills learned the previous week's course to work.  These situations could include using math lessons to improve algorithms to make the transportation systems more intuitive or working on crops on the communal farms to practice skills learned in Biology.  These experiences will also be a a better way to asses students as they can tailor much of the experience to their liking.</p>
+        </div>
+      </div>
+</div>
+</section>
+     <section class="container-fluid" id="section4">
+     <div class="container marketing">
+<div class="row featurette">
+        <div class="col-md-6">
+        <h3 class="featurette-heading">English</h3>
+          <h3 class="featurette-heading">Language</h3>
+          <p class="lead">
+Instead of teaching students a language which, though maybe useful, does not give them a strong base for other languages, kids will be taught language in a curriculum that values learning the basis for many languages instead of just teaching them one popular language.  This way kids are not limited to only learning when in school and can more easily pick up languages later in life.  Esperanto will be the main language taught in schools while learning about the root of world language.  Esperanto is easier to learn than English, has found support even online and also consists of many different parts of other basic language structure.  Esperanto was created as a language to foster peace between any different nations and cultural groups, so it should give a very good foundation to students for learning other languages as well.</p>
+        </div>
+        <div class="col-md-6">
+        <h3 class="featurette-heading">Esperanto</h3>
+        <h3 class="featurette-heading">Lingvo</h3>
+          <p class="lead">
+Anstataŭ instruante studentoj pri lingvo, kiu, kvankam eble utila, ne donu al ili fortan bazon por aliaj lingvoj, infanoj estos instruitaj lingvo en curriculum kiu taksas lerni la bazon por multaj lingvoj anstataŭ nur instruante ilin unu populara lingvo. Tiu vojo infanoj ne estas limigitaj al nur lernas kiam en lernejo kaj povas pli facile repreni lingvojn poste en vivo. Esperanto, la lingvo kiun cxi tiu paragrafo estas en, estos la ĉefa lingvo instruata en lernejoj dum la lernado pri la radiko de mondlingvo. Esperanto estas pli facile lernebla ol la angla, trovis apogon eĉ enreta kaj ankaŭ konsistas el multaj malsamaj partoj de aliaj bazaj lingvo strukturo. Esperanto estis kreita kiel lingvo por progresigi la pacon inter ajna malsamaj nacioj kaj kulturajn grupojn, do ĝi devas doni tre bonan fundamenton por studentoj por lerni aliajn lingvojn tiel.</p>
+        
+
+         <!-- <img style="margin-top:0px;" class="featurette-image img-circle img-responsive" src="img/desk.jpg" alt="Generic placeholder image"> -->
+         
+        </div>
+      </div>
+     </div>
+     </section>
+      <section class="container-fluid" id="section5">
+      <footer>
+      
+        <p><a href="#">Back to top</a></p>
+        <p>&middot; &copy; 2014 Pensarora &middot;</p>
+      </footer>
+
+    </div><!-- /.container -->
+</div>
+
+<p><a name="translator">
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</a></p>
+<p>Click The "X" On The Upper Right Corner Of The </br>Google Translate Bar To Go Back To English</p>
+</section>
