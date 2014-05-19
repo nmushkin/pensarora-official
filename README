@@ -6,7 +6,8 @@ if people see this repository and start to use it, hopefully the website code wi
 
 Instructions:
 The Official Website Of Pensarora was done on an Amazon EC2 Instance with apapche installed, if you want to get apache and
-MYSQL installed, follow this tutorial: http://coenraets.org/blog/2012/01/setting-up-wordpress-on-amazon-ec2-in-5-minutes/ 
+MYSQL installed, follow this tutorial: http://coenraets.org/blog/2012/01/setting-up-wordpress-on-amazon-ec2-in-5-minutes/  
+up until the author talks about creating a MYSQL database.
 For the entire website to function properly, you will need a MYSQL database named cards with a table inside called cardinfo.
 Within the table cardinfo, you will need to create a row for id (primary key and auto incrementing), name, and message.
 This database will be used for the recording history via social media page of your site.  You should also install php, the 
